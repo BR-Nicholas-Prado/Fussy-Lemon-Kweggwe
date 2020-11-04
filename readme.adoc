@@ -1,0 +1,66 @@
+
+= FussyLemonKweggwe
+
+== Purpose
+
+FussyLemonKweggwe is a library for generating a sequence of dates, given constraints, particularly day of year.
+
+== License
+
+FussyLemonKweggwe is released under the terms of the  license.
+
+== Example usage
+
+
+
+== Name
+
+Kweggwe is a latinization of the primitive Irish Celtic word for numeral five.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
