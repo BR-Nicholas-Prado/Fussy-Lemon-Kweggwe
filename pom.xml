@@ -38,6 +38,30 @@
 			</dependency>
 			-->
 		<dependency>
+		    <!-- likely to remove this -->
+			<groupId>
+				com.cronutils
+				</groupId>
+			<artifactId>
+				cron-utils
+				</artifactId>
+			<version>
+				9.1.1
+				</version>
+			</dependency>
+		<dependency>
+		    <!-- for Pair<> -->
+			<groupId>
+				org.apache.commons
+				</groupId>
+			<artifactId>
+				commons-lang3
+				</artifactId>
+			<version>
+				3.11
+				</version>
+			</dependency>
+		<dependency>
 			<!-- test framework -->
 			<groupId>
 				org.junit.jupiter
